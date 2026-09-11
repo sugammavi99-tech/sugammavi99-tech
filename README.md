@@ -34,13 +34,13 @@ Lately, I have been working as a Freelance Cloud Solutions Engineer, helping bus
 * **Collaboration & Ops:** Jira, Confluence, Zenduty, Slack, Salesforce, Postman
 * **AI Orchestration & Development:** Gemini, Claude, Cursor, Antigravity, Gamma
 
-<---
+---
 
 ### 🏗️ Active Sandbox Lab
 
 I am currently using my personal laptop to build a zero-cost **[enterprise-devops-sandbox](https://github.com)**. I am using lightweight tools like `k3d` and `LocalStack` to replicate full enterprise AWS environments, GitOps workflows, and custom alerting patterns locally without running up massive cloud bills.
 
---->
+---
 
 ### 📬 Let's Connect
 
